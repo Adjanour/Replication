@@ -1,0 +1,28 @@
+C:\Users\Kirk\Documents\New folder\Replication\bin\Debug\net7.0\Replication.exe
+C:\Users\Kirk\Documents\New folder\Replication\bin\Debug\net7.0\Replication.deps.json
+C:\Users\Kirk\Documents\New folder\Replication\bin\Debug\net7.0\Replication.runtimeconfig.json
+C:\Users\Kirk\Documents\New folder\Replication\bin\Debug\net7.0\Replication.dll
+C:\Users\Kirk\Documents\New folder\Replication\bin\Debug\net7.0\Replication.pdb
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.AssemblyInfoInputs.cache
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.AssemblyInfo.cs
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.csproj.CoreCompileInputs.cache
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.dll
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\refint\Replication.dll
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.pdb
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\Replication.genruntimeconfig.cache
+C:\Users\Kirk\Documents\New folder\Replication\obj\Debug\net7.0\ref\Replication.dll
+D:\Desktop\PROJECTS\Replication\bin\Debug\net7.0\Replication.exe
+D:\Desktop\PROJECTS\Replication\bin\Debug\net7.0\Replication.deps.json
+D:\Desktop\PROJECTS\Replication\bin\Debug\net7.0\Replication.runtimeconfig.json
+D:\Desktop\PROJECTS\Replication\bin\Debug\net7.0\Replication.dll
+D:\Desktop\PROJECTS\Replication\bin\Debug\net7.0\Replication.pdb
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.AssemblyInfoInputs.cache
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.AssemblyInfo.cs
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.csproj.CoreCompileInputs.cache
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.dll
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\refint\Replication.dll
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.pdb
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\Replication.genruntimeconfig.cache
+D:\Desktop\PROJECTS\Replication\obj\Debug\net7.0\ref\Replication.dll
